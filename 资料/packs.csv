@@ -1,0 +1,13 @@
+pack,part,amount
+P,a1,2
+P,c1,1
+P,b1,1
+Q,a2,1
+Q,b2,1
+Q,d1,1
+P2,a2,2
+P2,c1,1
+P2,b2,1
+Q2,a1,1
+Q2,b1,1
+Q2,d1,1

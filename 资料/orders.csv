@@ -1,0 +1,5 @@
+order,market,date,due,allowed_packs,units,price,state
+n1,馆店,2026-10-24,2026-10-29,P|P2,26,14500,paid
+n2,学校,2026-10-24,2026-10-31,Q,18,12800,paid
+n3,馆店,2026-10-28,2026-11-03,P|P2,26,15600,proposed
+n4,学校,2026-10-27,2026-10-29,Q|Q2,31,13200,proposed
